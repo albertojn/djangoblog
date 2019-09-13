@@ -26,9 +26,6 @@ SECRET_KEY = 'zpdc2mi09%mhcv367!kd_p6q6gz0mfo$v8-7rb2rmchvy0ar^@'
 <<<<<<< HEAD
 # PRUEBA SI ESTA HACIENDO EL GITHUB
 DEBUG = False
-=======
-DEBUG = True
->>>>>>> d041b5185796158122c791cf485a7c7cf66f435e
 
 ALLOWED_HOSTS = ['*']
 
